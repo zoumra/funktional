@@ -1,8 +1,9 @@
 #---------------------------------#
-# funktional
+# Funktional
 #---------------------------------#
 
-topic: funktional lab for rust,haskell,idris,kotlin..
+topic: Functional programming lab & ideas (category theory).
+
 
 # Haskell 
 https://github.com/ekmett/lens
