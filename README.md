@@ -16,3 +16,6 @@ https://blog.philipphauer.de/idiomatic-kotlin-best-practices
 
 # Rust
 
+
+
+# Insights
